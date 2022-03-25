@@ -1,0 +1,15 @@
+video {
+  height: 700px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #292929;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+a {
+  color: #00a9ff;
+}
