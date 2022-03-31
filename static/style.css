@@ -13,3 +13,8 @@ body {
 a {
   color: #00a9ff;
 }
+
+progress {
+  margin-left: auto;
+  margin-right:auto;
+}
